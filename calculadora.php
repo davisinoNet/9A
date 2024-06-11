@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>OPERACIONES ARITMETICAS</h1>
+    <h1>OPERACIONES ARITMETICAS BASICAS</h1>
 <form action="operaciones.php" method="post">
     <div class="card">
       <img src="" alt="">
