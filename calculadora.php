@@ -21,11 +21,12 @@
         <label for="exampleInput">Dato 2</label>
         <input type="text" class="form-control" id="d2" placeholder="introduce un valor numerico">
         <br><br>
-        <input type="button" value="suma">
+        <input type="button" value="suma"> 
+        <input type="button" value="RESTA">
         <?php 
         
 
-        echo "hola esto es una modificación";  ?>
+        echo "hola esto es una modificación";  
          echo "Aqui se pondra las operaciones";  ?>
     </div>
         </div>
