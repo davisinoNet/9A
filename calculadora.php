@@ -23,6 +23,7 @@
         <br><br>
         <input type="button" value="suma"> 
         <input type="button" value="RESTA">
+        <input type="button" value="Multiplicacion">
         <?php 
         
 
