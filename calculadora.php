@@ -20,7 +20,8 @@
 
     <body>
         <header>
-        <h1>hola programadores</h1>
+      
+        <h1>Hola bienvenidos Programadores</h1>
         <h1>OPERACIONES ARITMETICAS BASICAS</h1>
 <form action="calculadora.php" method="POST">
     <div class="card">
@@ -43,7 +44,17 @@
         
     </div>
         </div>
-        <a href="#" class="btn btn-primary pull-right"></a>
+        <label for="lang">Lenguaje</label>
+      <select name="lenguajes" id="lang">
+        <option value="javascript">JavaScript</option>
+        <option value="php">PHP</option>
+        <option value="java">Java</option>
+        <option value="golang">Golang</option>
+        <option value="python">Python</option>
+        <option value="c#">C#</option>
+        <option value="C++">C++</option>
+        <option value="erlang">Erlang</option>
+      </select>
       </div>
     </div>
 
